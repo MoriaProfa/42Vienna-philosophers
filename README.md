@@ -1,3 +1,5 @@
+*This project has been created as part of the 42 curriculum by astehl.*
+
 # Philosophers
 
 A 42 School project exploring concurrency in C through the classic Dining Philosophers problem. The goal is to simulate philosophers sharing forks while managing threads, mutexes, and timing to prevent data races and detect starvation.
