@@ -11,13 +11,9 @@
 /* ************************************************************************** */
 
 #include "philo.h"
-//todos:
-//eat.c is still too long
-
 //tests/tools:
 //./philo 3 600 200 200 10 > test.txt <-- in ein testfile ausgeben
-//./philo 3 600 200 200 10 | tee test.txt <-- im terminal drucken 
-//UND in ein testfile ausgeben
+//./philo 3 600 200 200 10 | tee test.txt <-- im terminal drucken UND in ein testfile ausgeben
 
 //test with  ./philo 200 800 200 90 and ./philo 200 550 200 20
 
